@@ -1,5 +1,5 @@
 # karmochi
-A playable version of the fictional board game karmochi. Game is played by running Karmochi.py
+A playable version of the fictional board game karmochi. Game is played by running Karmochi.py. Both players are playable and there is no computer player option at this time.
 
 A Karmochi board is 15 squares long and 9 squares wide. The board is split into three zones, each 5 squares long; two defensive zones, one for each player, where the defensive pieces can be placed, and one shared attacking zone in the middle, where all attacking pieces sit.
 
